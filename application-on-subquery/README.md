@@ -8,4 +8,4 @@
 - to count the orders for that region
 --- 
 # The ER Diagram of this database
-![ER Diagram of Parch&PoseyERD.jpg](application-on-subquery/Parch%26PoseyERD.jpg)
+![ER Diagram of Parch&PoseyERD](/application-on-subquery/Parch%26PoseyERD.jpg)
