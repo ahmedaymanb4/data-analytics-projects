@@ -1,0 +1,2 @@
+# My Calls Tracker
+It's a simple spreadsheet that helps people in customer service industry to keep track on their calls. Also, it provide a ready-to-use structure to analyze main metrics in the industry, such as VOC and AHT. 
